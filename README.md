@@ -117,11 +117,27 @@ flowchart TD
 - **小说内容** → 写手主导
 - **跨类型协调** → 总监主导
 
+## 技术栈
+
+**前端**：React 18 + TypeScript + Zustand + Shadcn/ui + Monaco Editor + Axios
+**后端**：Node.js + Express + TypeScript + Gemini API + MCP SDK + WebSocket
+
+### 架构特点
+- **前后端分离**：职责边界清晰，便于开发维护
+- **本地化优先**：用户完全控制数据，无云端依赖
+- **轻量级设计**：最小化依赖，快速启动和部署
+- **TypeScript全栈**：类型安全，开发体验优秀
+
 ## 开发计划
 
+### 阶段0：技术搭建（Epic 0）
+- ⏳ 前后端框架初始化和基础配置
+- ⏳ 项目结构搭建和开发环境配置
+- ⏳ 基础通信验证和构建流程
+
 ### 阶段1：基础架构（Epic 1-3）
-- ✅ 项目导入引导流程
-- ✅ 主工作界面搭建
+- ⏳ 项目导入引导流程
+- ⏳ 主工作界面搭建
 - ⏳ 文件操作功能
 
 ### 阶段2：AI基础服务（Epic 4-5）
@@ -141,20 +157,51 @@ flowchart TD
 ### 阶段5：系统完善（Epic 12）
 - ⏳ 智能依赖和高级特性
 
+## 快速开始
+
+### 环境要求
+- Node.js 18+
+- npm 或 yarn
+- Google Gemini API Key
+
+### 安装和运行
+```bash
+# 克隆项目
+git clone https://github.com/your-repo/novel-sys.git
+cd novel-sys
+
+# 安装依赖
+npm install
+
+# 配置环境变量
+cp .env.example .env
+# 编辑 .env 文件，配置 GEMINI_API_KEY
+
+# 启动开发服务器
+npm run dev      # 前端开发服务器 (3000)
+npm run server   # 后端API服务器 (3001)
+
+# 构建项目
+npm run build
+```
+
 ## 项目结构
 
 ```
 novel-sys/
-├── docs/                           # 文档目录
-│   ├── 【Epic】架构设计.md         # 架构设计文档
-│   ├── 【PRD】小说创作工具.md     # 产品需求文档
-│   ├── 【OES】设计文档.md         # OES设计文档
-│   └── 【过程文件】产品设想.md     # 产品设想
-├── NOVEL_CREATION_TASKS/           # 任务管理目录
-│   ├── Backend_Tasks/              # 后端任务
-│   ├── Frontend_Tasks/             # 前端任务
-│   └── Fullstack_Tasks/            # 全栈任务
-└── README.md                       # 项目说明文档
+├── src/
+│   ├── client/           # 前端代码
+│   ├── server/           # 后端代码
+│   ├── shared/           # 前后端共享代码
+│   └── config/           # 配置管理
+├── docs/                 # 项目文档
+│   ├── 开发总结/         # AI开发总结备份
+│   ├── 【Epic】架构设计.md
+│   ├── 【技术架构】系统设计方案.md
+│   └── 其他设计文档
+├── public/               # 静态资源
+├── tests/                # 测试文件
+└── scripts/              # 构建脚本
 ```
 
 ## 核心特色
@@ -206,6 +253,6 @@ novel-sys/
 
 ---
 
-> **开发状态**: 正在开发中  
-> **当前版本**: Alpha  
-> **最后更新**: 2024年12月测试推送
+> **开发状态**: 正在开发中 - Epic 0 技术环境搭建阶段  
+> **当前版本**: 0.0.1-alpha  
+> **最后更新**: 2025年1月
