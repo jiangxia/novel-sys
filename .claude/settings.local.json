@@ -19,7 +19,13 @@
       "Bash(promptx activate Sean)",
       "Bash(rm:*)",
       "Bash(cp:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(promptx action sean)",
+      "Bash(dpml-prompt:*)",
+      "WebSearch",
+      "Bash(claude mcp add-json context7 '{\"\"command\"\": \"\"npx\"\", \"\"args\"\": [\"\"-y\"\", \"\"context7@latest\"\", \"\"mcp-server\"\"]}')",
+      "Bash(claude mcp:*)",
+      "Bash(npm search:*)"
     ],
     "deny": [],
     "ask": [],
