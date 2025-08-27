@@ -14,13 +14,19 @@
       "Bash(echo:*)",
       "Bash(cat:*)",
       "Bash(git rm:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(promptx welcome)",
+      "Bash(promptx activate Sean)",
+      "Bash(rm:*)",
+      "Bash(cp:*)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": [],
     "additionalDirectories": [
       "/Users/huangyanxiang/.claude",
-      "/Users/huangyanxiang"
+      "/Users/huangyanxiang",
+      "/usr/local/lib/node_modules/@upstash/context7-mcp/dist"
     ]
   }
 }
