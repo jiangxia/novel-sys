@@ -34,7 +34,8 @@
       "Bash(npm install:*)",
       "Bash(npm run type-check:*)",
       "Bash(npm run dev:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(npm run dev:*)"
     ],
     "deny": [],
     "ask": [],
