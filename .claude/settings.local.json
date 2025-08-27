@@ -5,7 +5,11 @@
       "Bash(npx:*)",
       "Bash(mkdir:*)",
       "Bash(promptx init)",
-      "Bash(env)"
+      "Bash(env)",
+      "Bash(git branch:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": [],
