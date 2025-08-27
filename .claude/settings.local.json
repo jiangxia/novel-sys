@@ -25,7 +25,8 @@
       "WebSearch",
       "Bash(claude mcp add-json context7 '{\"\"command\"\": \"\"npx\"\", \"\"args\"\": [\"\"-y\"\", \"\"context7@latest\"\", \"\"mcp-server\"\"]}')",
       "Bash(claude mcp:*)",
-      "Bash(npm search:*)"
+      "Bash(npm search:*)",
+      "Bash(mv:*)"
     ],
     "deny": [],
     "ask": [],

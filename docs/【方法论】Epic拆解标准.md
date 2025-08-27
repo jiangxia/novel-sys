@@ -354,6 +354,21 @@ Story 1 (界面功能) → Story 2 (服务逻辑) → Story 3 (功能集成) →
 [原有的Story拆解内容]
 ```
 
+### 6.2 Epic文档存放规范
+#### Epic文档目录结构
+```
+docs/NOVEL_CREATION_TASKS/
+├── 【Epic0】技术环境搭建.md
+├── 【Epic1】项目导入引导流程.md  
+├── 【Epic2】主工作界面搭建.md
+└── [...其他Epic文档]
+```
+
+#### Epic文档命名规则
+- 格式：【Epic[编号]】[Epic名称].md
+- 位置：项目根目录/docs/NOVEL_CREATION_TASKS/
+- 约束：所有Epic拆解文档统一存放在docs/NOVEL_CREATION_TASKS目录
+
 ### 6.3 开发总结备份机制
 #### 时间戳总结文件夹
 ```

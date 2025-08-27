@@ -195,6 +195,7 @@ novel-sys/
 │   ├── shared/           # 前后端共享代码
 │   └── config/           # 配置管理
 ├── docs/                 # 项目文档
+│   ├── NOVEL_CREATION_TASKS/ # Epic拆解任务文档
 │   ├── 开发总结/         # AI开发总结备份
 │   ├── 【Epic】架构设计.md
 │   ├── 【技术架构】系统设计方案.md
