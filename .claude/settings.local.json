@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push:*)",
+      "Bash(npx:*)",
+      "Bash(mkdir:*)",
+      "Bash(promptx init)",
+      "Bash(env)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "/Users/huangyanxiang/.claude",
+      "/Users/huangyanxiang"
+    ]
+  }
+}
