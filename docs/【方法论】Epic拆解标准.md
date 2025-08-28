@@ -161,7 +161,7 @@ Epic N: [Epic名称]
 根据Epic特点，重点实现：
 - **AI服务模块**：Gemini API + PromptX MCP集成
 - **文件操作模块**：本地文件读写和File System Access API
-- **项目管理模块**：依赖识别和状态管理
+- **项目管理模块**：文件状态管理和项目导入
 - **记忆管理模块**：Redis短期 + PromptX长期记忆
 
 ## 验收标准
