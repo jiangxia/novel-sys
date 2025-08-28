@@ -4,8 +4,8 @@
   "metadata": {
     "version": "2.0.0",
     "description": "project 级资源注册表",
-    "createdAt": "2025-08-27T11:40:24.270Z",
-    "updatedAt": "2025-08-27T11:40:24.279Z",
+    "createdAt": "2025-08-28T07:06:45.332Z",
+    "updatedAt": "2025-08-28T07:06:45.342Z",
     "resourceCount": 8
   },
   "resources": [
@@ -17,9 +17,9 @@
       "description": "执行模式，定义具体的行为模式",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/execution/ai-integration-standards.execution.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.273Z",
-        "updatedAt": "2025-08-27T11:40:24.273Z",
-        "scannedAt": "2025-08-27T11:40:24.273Z",
+        "createdAt": "2025-08-28T07:06:45.335Z",
+        "updatedAt": "2025-08-28T07:06:45.335Z",
+        "scannedAt": "2025-08-28T07:06:45.335Z",
         "path": "role/fullstack-ai-dev/execution/ai-integration-standards.execution.md"
       }
     },
@@ -31,9 +31,9 @@
       "description": "执行模式，定义具体的行为模式",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/execution/code-quality-assurance.execution.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.274Z",
-        "updatedAt": "2025-08-27T11:40:24.274Z",
-        "scannedAt": "2025-08-27T11:40:24.274Z",
+        "createdAt": "2025-08-28T07:06:45.336Z",
+        "updatedAt": "2025-08-28T07:06:45.336Z",
+        "scannedAt": "2025-08-28T07:06:45.336Z",
         "path": "role/fullstack-ai-dev/execution/code-quality-assurance.execution.md"
       }
     },
@@ -45,9 +45,9 @@
       "description": "执行模式，定义具体的行为模式",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/execution/epic-development-workflow.execution.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.275Z",
-        "updatedAt": "2025-08-27T11:40:24.275Z",
-        "scannedAt": "2025-08-27T11:40:24.275Z",
+        "createdAt": "2025-08-28T07:06:45.337Z",
+        "updatedAt": "2025-08-28T07:06:45.337Z",
+        "scannedAt": "2025-08-28T07:06:45.337Z",
         "path": "role/fullstack-ai-dev/execution/epic-development-workflow.execution.md"
       }
     },
@@ -59,9 +59,9 @@
       "description": "执行模式，定义具体的行为模式",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/execution/user-experience-optimization.execution.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.276Z",
-        "updatedAt": "2025-08-27T11:40:24.276Z",
-        "scannedAt": "2025-08-27T11:40:24.276Z",
+        "createdAt": "2025-08-28T07:06:45.338Z",
+        "updatedAt": "2025-08-28T07:06:45.338Z",
+        "scannedAt": "2025-08-28T07:06:45.338Z",
         "path": "role/fullstack-ai-dev/execution/user-experience-optimization.execution.md"
       }
     },
@@ -73,9 +73,9 @@
       "description": "专业角色，提供特定领域的专业能力",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/fullstack-ai-dev.role.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.277Z",
-        "updatedAt": "2025-08-27T11:40:24.277Z",
-        "scannedAt": "2025-08-27T11:40:24.277Z",
+        "createdAt": "2025-08-28T07:06:45.339Z",
+        "updatedAt": "2025-08-28T07:06:45.339Z",
+        "scannedAt": "2025-08-28T07:06:45.339Z",
         "path": "role/fullstack-ai-dev/fullstack-ai-dev.role.md"
       }
     },
@@ -87,9 +87,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/thought/ai-driven-architecture.thought.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.278Z",
-        "updatedAt": "2025-08-27T11:40:24.278Z",
-        "scannedAt": "2025-08-27T11:40:24.278Z",
+        "createdAt": "2025-08-28T07:06:45.340Z",
+        "updatedAt": "2025-08-28T07:06:45.340Z",
+        "scannedAt": "2025-08-28T07:06:45.340Z",
         "path": "role/fullstack-ai-dev/thought/ai-driven-architecture.thought.md"
       }
     },
@@ -101,9 +101,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/thought/fullstack-integration-thinking.thought.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.278Z",
-        "updatedAt": "2025-08-27T11:40:24.278Z",
-        "scannedAt": "2025-08-27T11:40:24.278Z",
+        "createdAt": "2025-08-28T07:06:45.340Z",
+        "updatedAt": "2025-08-28T07:06:45.340Z",
+        "scannedAt": "2025-08-28T07:06:45.340Z",
         "path": "role/fullstack-ai-dev/thought/fullstack-integration-thinking.thought.md"
       }
     },
@@ -115,9 +115,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/role/fullstack-ai-dev/thought/ux-research-methodology.thought.md",
       "metadata": {
-        "createdAt": "2025-08-27T11:40:24.279Z",
-        "updatedAt": "2025-08-27T11:40:24.279Z",
-        "scannedAt": "2025-08-27T11:40:24.279Z",
+        "createdAt": "2025-08-28T07:06:45.341Z",
+        "updatedAt": "2025-08-28T07:06:45.341Z",
+        "scannedAt": "2025-08-28T07:06:45.341Z",
         "path": "role/fullstack-ai-dev/thought/ux-research-methodology.thought.md"
       }
     }
